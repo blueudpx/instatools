@@ -17,7 +17,7 @@ CHROMEDRIVER_PATH = '/snap/chromium/1523/usr/lib/chromium-browser/chromedriver' 
 TIME_DELAY = 2 # delay to avoid UI problems
 SECURE_DELAY = 20 # delay to wait
 entries_ = 10 # delay implemented each entries_ times
-exclusions = 'frannn0' # leave blank for no exclusions or add users separated with ";"
+exclusions = 'blueudp' # leave blank for no exclusions or add users separated with ";"
 # =============
 
 out_var = ''
